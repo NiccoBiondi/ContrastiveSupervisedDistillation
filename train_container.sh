@@ -5,4 +5,4 @@ docker run --ipc=host --rm \
 		   -e TZ=Europe/Rome \
            -v `pwd`/:/code \
            --name csd \
-           -it csd:latest python train.py --container
+           -it csd:latest python /code/main.py --container

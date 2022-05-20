@@ -1,0 +1,4 @@
+git+https://github.com/ContinualAI/avalanche.git@66878cb92c949e3e7c8c4631be136d8154df2e89
+wheel
+gdown==4.4.0
+pytorch-metric-learning==1.3.0

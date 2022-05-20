@@ -1,0 +1,17 @@
+.DS_Store
+.vscode/
+.idea/
+__pycache__
+.neptune/
+.pycharm/
+
+data/
+saved_models/
+
+events*
+*.pt
+*.pth
+*.tgz
+*.tar
+*.tar.gz
+

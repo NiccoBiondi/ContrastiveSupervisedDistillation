@@ -5,7 +5,7 @@ _Tommaso Barletti, Niccolò Biondi, Federico Pernici, Matteo Bruni, and Alberto 
 
 Tommaso Barletti and Niccolò Biondi contributed equally.
 
-This work has been arwarded as Best Student Paper at ICIAP21
+This work has been awarded as Best Student Paper at ICIAP21
 
 ## Abstract
 
